@@ -1,5 +1,5 @@
-## Olá! Eu sou o João, mas pode me chamar de Dom! 🫡
-Olá! Me chamo João Henrique, mas sou comumente conhecido por Dom Henrique! Estou iniciando meu aprendizado em programação front-end e pretendo desenvolver sites, sistemas web e alguns aplicativos para Android no futuro.
+## Olá! Eu sou o Dom Henrique, mas pode me chamar de Dom! 🫡
+Olá! Me chamo Dom Henrique, mas pode me chamar de Dom! Estou iniciando meu aprendizado em programação front-end e pretendo desenvolver sites, sistemas web e alguns aplicativos para Android no futuro.
 
 
 ## Tecnologias que mais uso:

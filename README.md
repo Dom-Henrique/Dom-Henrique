@@ -1,6 +1,6 @@
 # 🎩 Hi! I'm Dom Henrique!
 
-- Computer Science student;
+- Computer Science student [1/8];
 - "Between Us" author;
 - High school diploma with integrated computer science;
 - Focusing on web, mobile, and game development.

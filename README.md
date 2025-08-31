@@ -2,7 +2,9 @@
 
 - Computer Science student [1/8];
 - "Between Us" author;
+- Digital Marketing;
 - High school diploma with integrated computer science;
+- Being software engineer;
 - Focusing on web, mobile, and game development.
 
 ***Ave Christus Rex!***

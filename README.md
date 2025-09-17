@@ -5,7 +5,7 @@
 - Digital Marketing;
 - High school diploma with integrated computer science;
 - Being software engineer;
-- Focusing on web, mobile, and game development.
+- Focusing on web and AI development.
 
 ***Ave Christus Rex!***
 <!--

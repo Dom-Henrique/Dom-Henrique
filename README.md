@@ -4,8 +4,7 @@
 - "Between Us" author;
 - Digital Marketing;
 - High school diploma with integrated computer science;
-- Being software engineer;
-- Focusing on web and AI development.
+- Being software engineer.
 
 ***Ave Christus Rex!***
 <!--

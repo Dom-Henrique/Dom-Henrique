@@ -1,7 +1,7 @@
 # 🎩 Hi! I'm Dom Henrique!
 
 - Computer Science student [1/8];
-- "Between Us" author;
+- Artist;
 - Digital Marketing;
 - High school diploma with integrated computer science;
 - Being software engineer.

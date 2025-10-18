@@ -5,8 +5,6 @@
 - Digital Marketing;
 - High school diploma with integrated computer science;
 - Being software engineer.
-
-***Ave Christus Rex!***
 <!--
    <p align="left">
       <a href="https://www.instagram.com/dom_hrq/">

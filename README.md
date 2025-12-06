@@ -1,4 +1,4 @@
-# 🎩 Hi! I'm Dom Henrique!
+# 🎩 Hi! I'm [Dom Henrique](https://dom-henrique.github.io/domhenrique-lp/)!
 
 I'm a lover of math and computer science. Recently, i've studied Calculus I (limits, derivatives and integrals) and i work like designer to buy my math dreams books like Principia Matematica of Sir Isaac Newton and CS books, like Clean Code.
 

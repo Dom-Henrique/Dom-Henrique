@@ -1,7 +1,7 @@
 # Hi! I'm [Dom Henrique](https://dom-henrique.github.io/domhenrique-lp/)!
 I'm a lover of math and computer science. Recently, i've studied Calculus I (limits, derivatives and integrals) and i work like designer to buy my math dreams books like Principia Matematica of Sir Isaac Newton and CS books, like Clean Code.
 
-
+Recently i ingressed in the design world. I have skills in Affinity by Canva creating content strategies for Instagram.
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/domhenrique1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@odomhenriq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dom-henrique) 
 

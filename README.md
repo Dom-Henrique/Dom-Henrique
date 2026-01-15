@@ -11,10 +11,12 @@
 ###
 
 <div align="center">
+  <!--
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo">
   <img width="12">
+  -->
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="python logo"  />
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />

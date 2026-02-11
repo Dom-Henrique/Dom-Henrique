@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am passionate about mathematics and computer science. Recently, I have studied Calculus I, including limits, derivatives, and integrals. I currently work as a designer to support my academic interests and to purchase mathematics books—such as Principia Mathematica by Sir Isaac Newton—as well as computer science books like Clean Code.</p>
+<p align="center">I am passionate about mathematics, System Analysis and Development and Computer Science. Recently, I have studied Calculus I, including limits, derivatives, and integrals. I currently work as a designer to support my academic interests and to purchase mathematics books—such as Principia Mathematica by Sir Isaac Newton—as well as computer science books like Clean Code.</p>
 
 ###
 

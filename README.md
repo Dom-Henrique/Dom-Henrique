@@ -1,9 +1,10 @@
+<!--
 <div align="center">
   <img height="300" src="https://aventurasnahistoria.com.br/wp-content/uploads/2025/07/baldu-nio.jpg"  />
 </div>
 
 ###
-
+-->
 <h1 align="center">Dom Henrique</h1>
 
 ###
@@ -28,10 +29,6 @@
 ###
 
 <p align="center">- Imperial Brazilian<br>- Roman Catholical<br>- Devotee of Saint Francis<br>- Passionate of Computer Science and Mathematics<br>- British English (B2)<br>- Self Improve<br>- Artist</p>
-
-###
-
-<p align="center">"N"</p>
 
 ###
 

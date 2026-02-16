@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">- Imperial Brazilian<br>- Roman Catholical<br>- Devotee of Saint Francis<br>- Passionate of Computer Science and Mathematics<br>- British English (B2)<br>- Self Improve<br>- Artist</p>
+<p align="center">- Imperial Brazilian<br>- Passionate of Computer Science and Mathematics<br>- British English (B2)<br>- Self Improve<br>- Artist<br>- Classical Music<br>- Old Money & Dark Academia</p>
 
 ###
 
@@ -43,8 +43,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
+  <!--
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />

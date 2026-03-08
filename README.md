@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">- Computer Science Student in Paraíba's Catholical College<br>- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer</p>
+<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer<br>- British English (B2)<br>- Focusing in Java and Web Development<br>- Passionate in C++</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">- Imperial Brazilian<br>- Passionate of Computer Science and Mathematics<br>- British English (B2)<br>- Self Improve<br>- Artist<br>- Classical Music<br>- Old Money & Dark Academia</p>
+<p align="center">- Self Improve<br>- Artist<br>- Classical Music<br>- Old Money & Dark Academia<br>- Player 0 in volleyball</p>
 
 ###
 
@@ -37,11 +37,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50"alt="cpp logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
   <img width="12" />
   <!--
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
@@ -85,10 +87,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dom-Henrique&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dom-Henrique&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dom-Henrique&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dom-Henrique&radius=16&theme=tokyonightk&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

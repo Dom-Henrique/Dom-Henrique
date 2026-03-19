@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer<br>- British English (B2)<br>- Focusing in Java and Web Development<br>- Passionate in C++</p>
+<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer and passionate of Front-End development<br>- Focusing in Java<br>- Passionate in C++<br>- British English</p>
 
 ###
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/dom-henrique" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/odomhenriq/" target="_blank">
+  <a href="https://www.instagram.com/otaldodomm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
   </a>
 </div>
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">- Self Improve<br>- Artist<br>- Classical Music<br>- Old Money & Dark Academia<br>- Player 0 in volleyball</p>
+<p align="center">- Old Money & Dark Academia<br>- Player 0 in volleyball<br>- Classical Music<br>- Self Improve<br>- Artist</p>
 
 ###
 

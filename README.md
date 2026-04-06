@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer and passionate of Front-End development<br>- Focusing in Java<br>- Passionate in C++<br>- British English</p>
+<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer and passionate of Front-End development<br>- Focusing in Java and competitive programming<br>- British English & Italian</p>
 
 ###
 
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dom-Henrique&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dom-Henrique&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph"  />
 </div>
 
 ###

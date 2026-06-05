@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer and passionate of Front-End development<br>- Focusing in Java and competitive programming<br>- British English & Italian</p>
+<p align="center">- Student of Associate's Degree in Software Development in Federal Institute of Paraíba<br>- Back-End Developer and passionate of Front-End development<br>- Focusing in competitive programming<br>- British English & Italian</p>
 
 ###
 

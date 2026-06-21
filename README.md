@@ -1,10 +1,9 @@
-<!--
+
 <div align="center">
   <img height="300" src="https://aventurasnahistoria.com.br/wp-content/uploads/2025/07/baldu-nio.jpg"  />
 </div>
 
 ###
--->
 <h1 align="center">Dom Henrique</h1>
 
 ###
